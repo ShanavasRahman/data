@@ -1,4 +1,4 @@
-const ResList = [
+[
     {
       id: "336912",
       name: "Pizza Hut",
@@ -200,7 +200,3 @@ const ResList = [
       cloudinaryImageId: "023a63cc663b328750810b48abd228b4"
     }
   ];
-  
-  
-
-export default ResList;
