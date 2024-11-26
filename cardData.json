@@ -1,0 +1,1020 @@
+[
+    {
+        "id": "336912",
+        "name": "Pizza Hut",
+        "locality": "Selvapalayam",
+        "costForTwo": "\u20b9350 for two",
+        "cuisines": [
+            "Pizzas"
+        ],
+        "avgRating": 4.2,
+        "totalRatingsString": "3.4K+",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/5825f6bc-7734-4670-b72a-3731db6edb62_336912.jpg",
+        "recommendedFood": [
+            {
+                "name": "Margherita Pizza",
+                "price": "\u20b9199",
+                "rating": 4.5,
+                "description": "Classic cheese and tomato pizza with fresh basil.",
+                "imageId": "img_273"
+            },
+            {
+                "name": "Pepperoni Feast",
+                "price": "\u20b9299",
+                "rating": 4.6,
+                "description": "Loaded with spicy pepperoni and extra cheese.",
+                "imageId": "img_922"
+            },
+            {
+                "name": "Veggie Supreme",
+                "price": "\u20b9259",
+                "rating": 4.4,
+                "description": "Loaded with fresh veggies and mozzarella cheese.",
+                "imageId": "img_145"
+            },
+            {
+                "name": "Chicken Sausage Pizza",
+                "price": "\u20b9279",
+                "rating": 4.5,
+                "description": "Delicious chicken sausage on a thin crust.",
+                "imageId": "img_602"
+            },
+            {
+                "name": "Cheesy Garlic Bread",
+                "price": "\u20b9149",
+                "rating": 4.7,
+                "description": "Garlic bread topped with melted cheese.",
+                "imageId": "img_254"
+            }
+        ]
+    },
+    {
+        "id": "328821",
+        "name": "KFC",
+        "locality": "Kajas",
+        "costForTwo": "\u20b9400 for two",
+        "cuisines": [
+            "Burgers",
+            "Fast Food",
+            "Rolls & Wraps"
+        ],
+        "avgRating": 4.4,
+        "totalRatingsString": "7.3K+",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/5/d016bb44-536a-46d6-b128-2f99f899365d_328821.JPG",
+        "recommendedFood": [
+            {
+                "name": "Zinger Burger",
+                "price": "\u20b9159",
+                "rating": 4.6,
+                "description": "Crispy chicken fillet in a soft sesame bun.",
+                "imageId": "img_579"
+            },
+            {
+                "name": "Hot Wings Bucket",
+                "price": "\u20b9249",
+                "rating": 4.7,
+                "description": "Spicy and crispy chicken wings bucket.",
+                "imageId": "img_273"
+            },
+            {
+                "name": "Chicken Popcorn",
+                "price": "\u20b9129",
+                "rating": 4.5,
+                "description": "Bite-sized crispy chicken delights.",
+                "imageId": "img_602"
+            },
+            {
+                "name": "Smoky Grilled Chicken",
+                "price": "\u20b9229",
+                "rating": 4.8,
+                "description": "Tender grilled chicken with smoky flavors.",
+                "imageId": "img_922"
+            },
+            {
+                "name": "Crispy Tenders Meal",
+                "price": "\u20b9349",
+                "rating": 4.4,
+                "description": "Chicken tenders with sides and a drink.",
+                "imageId": "img_254"
+            }
+        ]
+    },
+    {
+        "id": "101003",
+        "name": "Restaurant 3",
+        "locality": "Locality 3",
+        "costForTwo": "\u20b9350 for two",
+        "cuisines": [
+            "Burgers",
+            "Grill",
+            "Indian"
+        ],
+        "avgRating": 4.4,
+        "totalRatingsString": "9141+",
+        "cloudinaryImageId": "023a63cc663b328750810b48abd228b4",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9129",
+                "rating": 4.4,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_601"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9129",
+                "rating": 4.8,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_152"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9400",
+                "rating": 4.7,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_404"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9193",
+                "rating": 4.3,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_283"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9101",
+                "rating": 4.8,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_413"
+            }
+        ]
+    },
+    {
+        "id": "101004",
+        "name": "Restaurant 4",
+        "locality": "Locality 4",
+        "costForTwo": "\u20b9335 for two",
+        "cuisines": [
+            "Burgers",
+            "Snacks",
+            "Grill"
+        ],
+        "avgRating": 4.4,
+        "totalRatingsString": "3020+",
+        "cloudinaryImageId": "l8utpynxvsn18yzzialp",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9306",
+                "rating": 4.3,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_751"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9123",
+                "rating": 4.5,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_343"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9476",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_222"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9103",
+                "rating": 4.9,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "djodmmxum2curc7agsp1"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9122",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_344"
+            }
+        ]
+    },
+    {
+        "id": "101005",
+        "name": "Restaurant 5",
+        "locality": "Locality 5",
+        "costForTwo": "\u20b9484 for two",
+        "cuisines": [
+            "Grill",
+            "Pizzas",
+            "Desserts"
+        ],
+        "avgRating": 4.5,
+        "totalRatingsString": "2661+",
+        "cloudinaryImageId": "f1bc9ddf53de574cdc35ab2f717df234",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9408",
+                "rating": 4.4,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "lb5o4kl1cxikwxpqka6a"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9375",
+                "rating": 4.3,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_563"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9327",
+                "rating": 4.8,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "f1bc9ddf53de574cdc35ab2f717df234"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9309",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_181"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9137",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_915"
+            }
+        ]
+    },
+    {
+        "id": "101006",
+        "name": "Restaurant 6",
+        "locality": "Locality 6",
+        "costForTwo": "\u20b9542 for two",
+        "cuisines": [
+            "Snacks",
+            "Indian",
+            "Burgers"
+        ],
+        "avgRating": 4.5,
+        "totalRatingsString": "8270+",
+        "cloudinaryImageId": "lb5o4kl1cxikwxpqka6a",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9282",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_947"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9255",
+                "rating": 4.7,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_992"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9190",
+                "rating": 4.9,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_265"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9429",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_930"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9469",
+                "rating": 4.3,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_778"
+            }
+        ]
+    },
+    {
+        "id": "101007",
+        "name": "Restaurant 7",
+        "locality": "Locality 7",
+        "costForTwo": "\u20b9797 for two",
+        "cuisines": [
+            "Pizzas",
+            "Indian",
+            "Burgers"
+        ],
+        "avgRating": 4.3,
+        "totalRatingsString": "3141+",
+        "cloudinaryImageId": "djodmmxum2curc7agsp1",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9298",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_570"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9432",
+                "rating": 4.3,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_727"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9456",
+                "rating": 4.7,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_367"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9450",
+                "rating": 4.4,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "w01lvrofquazbt49kpjs"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9476",
+                "rating": 4.0,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_786"
+            }
+        ]
+    },
+    {
+        "id": "101008",
+        "name": "Restaurant 8",
+        "locality": "Locality 8",
+        "costForTwo": "\u20b9280 for two",
+        "cuisines": [
+            "Burgers",
+            "Pizzas",
+            "Grill"
+        ],
+        "avgRating": 4.2,
+        "totalRatingsString": "6132+",
+        "cloudinaryImageId": "10e47ca50f6b4106d398818aaf4f5a73",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9150",
+                "rating": 4.8,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_464"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9490",
+                "rating": 4.3,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_146"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9485",
+                "rating": 4.5,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_332"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9180",
+                "rating": 4.3,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_820"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9421",
+                "rating": 4.6,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_599"
+            }
+        ]
+    },
+    {
+        "id": "101009",
+        "name": "Restaurant 9",
+        "locality": "Locality 9",
+        "costForTwo": "\u20b9326 for two",
+        "cuisines": [
+            "Grill",
+            "Pizzas",
+            "Desserts"
+        ],
+        "avgRating": 4.5,
+        "totalRatingsString": "8344+",
+        "cloudinaryImageId": "dyy2e2kstsqbwny69up2",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9321",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_233"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9155",
+                "rating": 4.2,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_460"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9295",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_559"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9209",
+                "rating": 4.7,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_108"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9476",
+                "rating": 4.8,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_334"
+            }
+        ]
+    },
+    {
+        "id": "1010010",
+        "name": "Restaurant 10",
+        "locality": "Locality 10",
+        "costForTwo": "\u20b9333 for two",
+        "cuisines": [
+            "Desserts",
+            "Grill",
+            "Burgers"
+        ],
+        "avgRating": 4.3,
+        "totalRatingsString": "7580+",
+        "cloudinaryImageId": "w01lvrofquazbt49kpjs",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9440",
+                "rating": 4.2,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_197"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9250",
+                "rating": 4.7,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_636"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9323",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_286"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9216",
+                "rating": 4.0,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_935"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9116",
+                "rating": 4.5,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_500"
+            }
+        ]
+    },
+    {
+        "id": "1010011",
+        "name": "Restaurant 11",
+        "locality": "Locality 11",
+        "costForTwo": "\u20b9353 for two",
+        "cuisines": [
+            "Desserts",
+            "Indian",
+            "Pizzas"
+        ],
+        "avgRating": 4.7,
+        "totalRatingsString": "5577+",
+        "cloudinaryImageId": "nbcyjurq2qoxdztvibxg",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9122",
+                "rating": 4.8,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_539"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9207",
+                "rating": 4.8,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_463"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9129",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_570"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9211",
+                "rating": 4.6,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "lb5o4kl1cxikwxpqka6a"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9293",
+                "rating": 4.3,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "lcuqpu4x67sbf5prbqcg"
+            }
+        ]
+    },
+    {
+        "id": "1010012",
+        "name": "Restaurant 12",
+        "locality": "Locality 12",
+        "costForTwo": "\u20b9799 for two",
+        "cuisines": [
+            "Burgers",
+            "Grill",
+            "Indian"
+        ],
+        "avgRating": 4.8,
+        "totalRatingsString": "1865+",
+        "cloudinaryImageId": "lcuqpu4x67sbf5prbqcg",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9197",
+                "rating": 4.6,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_500"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9148",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_756"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9373",
+                "rating": 4.5,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "023a63cc663b328750810b48abd228b4"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9191",
+                "rating": 4.2,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_630"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9418",
+                "rating": 4.3,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_620"
+            }
+        ]
+    },
+    {
+        "id": "1010013",
+        "name": "Restaurant 13",
+        "locality": "Locality 13",
+        "costForTwo": "\u20b9212 for two",
+        "cuisines": [
+            "Indian",
+            "Desserts",
+            "Snacks"
+        ],
+        "avgRating": 4.4,
+        "totalRatingsString": "4028+",
+        "cloudinaryImageId": "xon4kleydyt3noltdtts",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9303",
+                "rating": 4.5,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_663"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9300",
+                "rating": 4.5,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_985"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9259",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_943"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9373",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_259"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9222",
+                "rating": 4.9,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_929"
+            }
+        ]
+    },
+    {
+        "id": "1010014",
+        "name": "Restaurant 14",
+        "locality": "Locality 14",
+        "costForTwo": "\u20b9223 for two",
+        "cuisines": [
+            "Grill",
+            "Snacks",
+            "Indian"
+        ],
+        "avgRating": 4.7,
+        "totalRatingsString": "7535+",
+        "cloudinaryImageId": "iqphgvfrleoiogwb8i2d",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9117",
+                "rating": 4.7,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_457"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9157",
+                "rating": 4.6,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_236"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9380",
+                "rating": 4.9,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_587"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9176",
+                "rating": 4.7,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_338"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9115",
+                "rating": 4.3,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_533"
+            }
+        ]
+    },
+    {
+        "id": "1010015",
+        "name": "Restaurant 15",
+        "locality": "Locality 15",
+        "costForTwo": "\u20b9597 for two",
+        "cuisines": [
+            "Burgers",
+            "Snacks",
+            "Indian"
+        ],
+        "avgRating": 4.7,
+        "totalRatingsString": "4088+",
+        "cloudinaryImageId": "btzcwvpiwdbn4vo4aeuj",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9482",
+                "rating": 4.4,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_970"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9434",
+                "rating": 4.4,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_479"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9429",
+                "rating": 4.4,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_843"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9106",
+                "rating": 4.8,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_736"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9232",
+                "rating": 4.4,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_212"
+            }
+        ]
+    },
+    {
+        "id": "1010016",
+        "name": "Restaurant 16",
+        "locality": "Locality 16",
+        "costForTwo": "\u20b9595 for two",
+        "cuisines": [
+            "Burgers",
+            "Pizzas",
+            "Grill"
+        ],
+        "avgRating": 4.9,
+        "totalRatingsString": "3656+",
+        "cloudinaryImageId": "djodmmxum2curc7agsp1",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9169",
+                "rating": 4.8,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_420"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9241",
+                "rating": 4.2,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_686"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9445",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_272"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9457",
+                "rating": 4.8,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_274"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9405",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_789"
+            }
+        ]
+    },
+    {
+        "id": "1010017",
+        "name": "Restaurant 17",
+        "locality": "Locality 17",
+        "costForTwo": "\u20b9675 for two",
+        "cuisines": [
+            "Snacks",
+            "Pizzas",
+            "Grill"
+        ],
+        "avgRating": 4.7,
+        "totalRatingsString": "7669+",
+        "cloudinaryImageId": "f1bc9ddf53de574cdc35ab2f717df234",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9227",
+                "rating": 4.2,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_960"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9331",
+                "rating": 4.7,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_395"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9293",
+                "rating": 4.3,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_213"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9399",
+                "rating": 4.8,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_477"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9286",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_672"
+            }
+        ]
+    },
+    {
+        "id": "1010018",
+        "name": "Restaurant 18",
+        "locality": "Locality 18",
+        "costForTwo": "\u20b9446 for two",
+        "cuisines": [
+            "Desserts",
+            "Indian",
+            "Burgers"
+        ],
+        "avgRating": 4.7,
+        "totalRatingsString": "7457+",
+        "cloudinaryImageId": "l8utpynxvsn18yzzialp",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9260",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_776"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9450",
+                "rating": 4.0,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_311"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9105",
+                "rating": 4.1,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_795"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9107",
+                "rating": 4.8,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_638"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9110",
+                "rating": 4.6,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_429"
+            }
+        ]
+    },
+    {
+        "id": "1010019",
+        "name": "Restaurant 19",
+        "locality": "Locality 19",
+        "costForTwo": "\u20b9394 for two",
+        "cuisines": [
+            "Indian",
+            "Burgers",
+            "Grill"
+        ],
+        "avgRating": 4.4,
+        "totalRatingsString": "9962+",
+        "cloudinaryImageId": "lb5o4kl1cxikwxpqka6a",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9499",
+                "rating": 4.3,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_156"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9100",
+                "rating": 4.3,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_243"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9348",
+                "rating": 4.0,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_338"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9267",
+                "rating": 4.5,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_688"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9297",
+                "rating": 4.4,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_503"
+            }
+        ]
+    },
+    {
+        "id": "1010020",
+        "name": "Restaurant 20",
+        "locality": "Locality 20",
+        "costForTwo": "\u20b9319 for two",
+        "cuisines": [
+            "Grill",
+            "Snacks",
+            "Indian"
+        ],
+        "avgRating": 4.5,
+        "totalRatingsString": "3883+",
+        "cloudinaryImageId": "10e47ca50f6b4106d398818aaf4f5a73",
+        "recommendedFood": [
+            {
+                "name": "Dish 1",
+                "price": "\u20b9476",
+                "rating": 4.9,
+                "description": "A delicious dish description for Dish 1.",
+                "imageId": "img_336"
+            },
+            {
+                "name": "Dish 2",
+                "price": "\u20b9406",
+                "rating": 4.9,
+                "description": "A delicious dish description for Dish 2.",
+                "imageId": "img_478"
+            },
+            {
+                "name": "Dish 3",
+                "price": "\u20b9383",
+                "rating": 4.4,
+                "description": "A delicious dish description for Dish 3.",
+                "imageId": "img_905"
+            },
+            {
+                "name": "Dish 4",
+                "price": "\u20b9311",
+                "rating": 4.8,
+                "description": "A delicious dish description for Dish 4.",
+                "imageId": "img_163"
+            },
+            {
+                "name": "Dish 5",
+                "price": "\u20b9413",
+                "rating": 4.2,
+                "description": "A delicious dish description for Dish 5.",
+                "imageId": "img_134"
+            }
+        ]
+    }
+]
