@@ -101,7 +101,7 @@
     },
     {
         "id": "101003",
-        "name": "Restaurant 3",
+        "name": "Domino's Pizza",
         "locality": "Locality 3",
         "costForTwo": "\u20b9350 for two",
         "cuisines": [
@@ -152,7 +152,7 @@
     },
     {
         "id": "101004",
-        "name": "Restaurant 4",
+        "name": "Burger King",
         "locality": "Locality 4",
         "costForTwo": "\u20b9335 for two",
         "cuisines": [
@@ -203,7 +203,7 @@
     },
     {
         "id": "101005",
-        "name": "Restaurant 5",
+        "name": "Subway",
         "locality": "Locality 5",
         "costForTwo": "\u20b9484 for two",
         "cuisines": [
@@ -254,7 +254,7 @@
     },
     {
         "id": "101006",
-        "name": "Restaurant 6",
+        "name": "Taco Bell",
         "locality": "Locality 6",
         "costForTwo": "\u20b9542 for two",
         "cuisines": [
@@ -305,7 +305,7 @@
     },
     {
         "id": "101007",
-        "name": "Restaurant 7",
+        "name": "Starbucks",
         "locality": "Locality 7",
         "costForTwo": "\u20b9797 for two",
         "cuisines": [
@@ -356,7 +356,7 @@
     },
     {
         "id": "101008",
-        "name": "Restaurant 8",
+        "name": "McDonald's",
         "locality": "Locality 8",
         "costForTwo": "\u20b9280 for two",
         "cuisines": [
@@ -407,7 +407,7 @@
     },
     {
         "id": "101009",
-        "name": "Restaurant 9",
+        "name": "Haldiram's",
         "locality": "Locality 9",
         "costForTwo": "\u20b9326 for two",
         "cuisines": [
@@ -458,7 +458,7 @@
     },
     {
         "id": "1010010",
-        "name": "Restaurant 10",
+        "name": "Biryani Blues",
         "locality": "Locality 10",
         "costForTwo": "\u20b9333 for two",
         "cuisines": [
@@ -509,7 +509,7 @@
     },
     {
         "id": "1010011",
-        "name": "Restaurant 11",
+        "name": "Wow! Momo",
         "locality": "Locality 11",
         "costForTwo": "\u20b9353 for two",
         "cuisines": [
@@ -560,7 +560,7 @@
     },
     {
         "id": "1010012",
-        "name": "Restaurant 12",
+        "name": "Dunkin'",
         "locality": "Locality 12",
         "costForTwo": "\u20b9799 for two",
         "cuisines": [
@@ -611,7 +611,7 @@
     },
     {
         "id": "1010013",
-        "name": "Restaurant 13",
+        "name": "Costa Coffee",
         "locality": "Locality 13",
         "costForTwo": "\u20b9212 for two",
         "cuisines": [
@@ -662,7 +662,7 @@
     },
     {
         "id": "1010014",
-        "name": "Restaurant 14",
+        "name": "Barbeque Nation",
         "locality": "Locality 14",
         "costForTwo": "\u20b9223 for two",
         "cuisines": [
@@ -713,7 +713,7 @@
     },
     {
         "id": "1010015",
-        "name": "Restaurant 15",
+        "name": "Paradise Biryani",
         "locality": "Locality 15",
         "costForTwo": "\u20b9597 for two",
         "cuisines": [
@@ -764,7 +764,7 @@
     },
     {
         "id": "1010016",
-        "name": "Restaurant 16",
+        "name": "Moti Mahal",
         "locality": "Locality 16",
         "costForTwo": "\u20b9595 for two",
         "cuisines": [
@@ -815,7 +815,7 @@
     },
     {
         "id": "1010017",
-        "name": "Restaurant 17",
+        "name": "Punjab Grill",
         "locality": "Locality 17",
         "costForTwo": "\u20b9675 for two",
         "cuisines": [
@@ -866,7 +866,7 @@
     },
     {
         "id": "1010018",
-        "name": "Restaurant 18",
+        "name": "Chili's",
         "locality": "Locality 18",
         "costForTwo": "\u20b9446 for two",
         "cuisines": [
@@ -917,7 +917,7 @@
     },
     {
         "id": "1010019",
-        "name": "Restaurant 19",
+        "name": "Indian Accent",
         "locality": "Locality 19",
         "costForTwo": "\u20b9394 for two",
         "cuisines": [
@@ -968,7 +968,7 @@
     },
     {
         "id": "1010020",
-        "name": "Restaurant 20",
+        "name": "Le Cirque",
         "locality": "Locality 20",
         "costForTwo": "\u20b9319 for two",
         "cuisines": [
