@@ -9,6 +9,7 @@
         ],
         "avgRating": 4.2,
         "totalRatingsString": "3.4K+",
+        "isPromoted":true,
         "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/5825f6bc-7734-4670-b72a-3731db6edb62_336912.jpg",
         "recommendedFood": [
             {
@@ -59,6 +60,7 @@
         ],
         "avgRating": 4.4,
         "totalRatingsString": "7.3K+",
+        "isPromoted":false,
         "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/5/d016bb44-536a-46d6-b128-2f99f899365d_328821.JPG",
         "recommendedFood": [
             {
@@ -110,6 +112,7 @@
         ],
         "avgRating": 4.4,
         "totalRatingsString": "9141+",
+        "isPromoted":false,
         "cloudinaryImageId": "023a63cc663b328750810b48abd228b4",
         "recommendedFood": [
             {
@@ -161,6 +164,7 @@
         ],
         "avgRating": 4.4,
         "totalRatingsString": "3020+",
+        "isPromoted":false,
         "cloudinaryImageId": "l8utpynxvsn18yzzialp",
         "recommendedFood": [
             {
@@ -212,6 +216,7 @@
         ],
         "avgRating": 4.5,
         "totalRatingsString": "2661+",
+        "isPromoted":true,
         "cloudinaryImageId": "f1bc9ddf53de574cdc35ab2f717df234",
         "recommendedFood": [
             {
@@ -263,6 +268,7 @@
         ],
         "avgRating": 4.5,
         "totalRatingsString": "8270+",
+        "isPromoted":false,
         "cloudinaryImageId": "lb5o4kl1cxikwxpqka6a",
         "recommendedFood": [
             {
@@ -314,6 +320,7 @@
         ],
         "avgRating": 4.3,
         "totalRatingsString": "3141+",
+        "isPromoted":false,
         "cloudinaryImageId": "djodmmxum2curc7agsp1",
         "recommendedFood": [
             {
@@ -365,6 +372,7 @@
         ],
         "avgRating": 4.2,
         "totalRatingsString": "6132+",
+        "isPromoted":true,
         "cloudinaryImageId": "10e47ca50f6b4106d398818aaf4f5a73",
         "recommendedFood": [
             {
@@ -416,6 +424,7 @@
         ],
         "avgRating": 4.5,
         "totalRatingsString": "8344+",
+        "isPromoted":false,
         "cloudinaryImageId": "dyy2e2kstsqbwny69up2",
         "recommendedFood": [
             {
@@ -467,6 +476,7 @@
         ],
         "avgRating": 4.3,
         "totalRatingsString": "7580+",
+        "isPromoted":false,
         "cloudinaryImageId": "w01lvrofquazbt49kpjs",
         "recommendedFood": [
             {
@@ -518,6 +528,7 @@
         ],
         "avgRating": 4.7,
         "totalRatingsString": "5577+",
+        "isPromoted":true,
         "cloudinaryImageId": "nbcyjurq2qoxdztvibxg",
         "recommendedFood": [
             {
@@ -569,6 +580,7 @@
         ],
         "avgRating": 4.8,
         "totalRatingsString": "1865+",
+        "isPromoted":false,
         "cloudinaryImageId": "lcuqpu4x67sbf5prbqcg",
         "recommendedFood": [
             {
@@ -620,6 +632,7 @@
         ],
         "avgRating": 4.4,
         "totalRatingsString": "4028+",
+        "isPromoted":false,
         "cloudinaryImageId": "xon4kleydyt3noltdtts",
         "recommendedFood": [
             {
@@ -671,6 +684,7 @@
         ],
         "avgRating": 4.7,
         "totalRatingsString": "7535+",
+        "isPromoted":false,
         "cloudinaryImageId": "iqphgvfrleoiogwb8i2d",
         "recommendedFood": [
             {
@@ -722,6 +736,7 @@
         ],
         "avgRating": 4.7,
         "totalRatingsString": "4088+",
+        "isPromoted":false,
         "cloudinaryImageId": "btzcwvpiwdbn4vo4aeuj",
         "recommendedFood": [
             {
@@ -773,6 +788,7 @@
         ],
         "avgRating": 4.9,
         "totalRatingsString": "3656+",
+        "isPromoted":false,
         "cloudinaryImageId": "djodmmxum2curc7agsp1",
         "recommendedFood": [
             {
@@ -824,6 +840,7 @@
         ],
         "avgRating": 4.7,
         "totalRatingsString": "7669+",
+        "isPromoted":false,
         "cloudinaryImageId": "f1bc9ddf53de574cdc35ab2f717df234",
         "recommendedFood": [
             {
@@ -875,6 +892,7 @@
         ],
         "avgRating": 4.7,
         "totalRatingsString": "7457+",
+        "isPromoted":false,
         "cloudinaryImageId": "l8utpynxvsn18yzzialp",
         "recommendedFood": [
             {
@@ -926,6 +944,7 @@
         ],
         "avgRating": 4.4,
         "totalRatingsString": "9962+",
+        "isPromoted":false,
         "cloudinaryImageId": "lb5o4kl1cxikwxpqka6a",
         "recommendedFood": [
             {
@@ -977,6 +996,7 @@
         ],
         "avgRating": 4.5,
         "totalRatingsString": "3883+",
+        "isPromoted":false,
         "cloudinaryImageId": "10e47ca50f6b4106d398818aaf4f5a73",
         "recommendedFood": [
             {
